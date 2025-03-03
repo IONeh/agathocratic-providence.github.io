@@ -4,28 +4,35 @@
 ## I. Organizational Mission & Purpose
 
 **Primary Goal:**  
-Creating an organization for combating far-right, far-left and unbalanced centrism through social media.
+Creating an organization for combating far-right, far-left and unbalanced centrism through social media. We will create videos, shorts, comments that will move people out of unrational echo chambers towards more balanced view or different perspectives of the world throught what i call "Tranzitional Chambers".
+
+If you want to read about my project regarding the civilization types click [THIS](https://github.com/IONeh/agathocratic-providence.github.io/echosystem.md)
+If you want to read about the political solution i propose for countries click [THIS](https://github.com/IONeh/agathocratic-providence.github.io/echosystem.md)
+If you want to know what my organization philosophy and tactics we will do for fighting extremism read below\/
 
 ## II. Philosophical Framework
 
 ### A. Gender & Identity
 
-**Spiritual Perspective:**  
-- Identity transcends physical form
-- In all religions souls have no gender, as they don't reproduce
+  **Policy Positions:**  
+  - Advocate for minimizing official documentation of sex/gender except for medical necessity
+  - No sex on ID (governments are having too much data about individuals)
 
-**Biological Understanding:**  
-- Two primary sexes plus intersex variations
-- Chromosome variation isn't necessarily proof for a third sex in homo sapiens
-- Hypothesis of hermaphrodite cannot be ruled out
+  Other reasons are>
 
-**Cultural Context:**  
-- Historical evidence of multiple gender roles (not sexes)
-- Example: 6-8 society roles in ancient Israel at time of Jesus Christ
+  **Spiritual Perspective:**  
+  - Identity transcends physical form
+  - In all religions souls have no gender, as they don't reproduce
 
-**Policy Positions:**  
-- Advocate for minimizing official documentation of sex/gender except for medical necessity
-- No sex on ID (governments are having too much data about individuals)
+  **Biological Understanding:**  
+  - Two primary sexes plus intersex variations
+  - Chromosome variation isn't necessarily proof for a third sex in homo sapiens, although hypothesis of hermaphrodite cannot be ruled out
+  - If you have the body of a robot, are you a human or a robot? You definetly can't be a cat. If your partner in a past life had a different gender would you stop loving?
+
+  **Cultural Context:**  
+  - Historical evidence of multiple gender roles (not sexes)
+  - Example: According to Talmud 6-8 society roles in ancient Israel at time of Jesus Christ. Also according to the Bible Matei chapter 19, Jesus was respecting eunuchs that decided to operate or were born another sex. Same thing can be said about all other religions. The only problems that arise is with homosexuals in abrahamic religions, as in the old testament of the bible and in the koran those acts are "superficialy" considered a sin. I say "superficialy" cause the opinion of the act is misunderstood, as an example, the new testament offers the second face of God(the mercifull and loving face) contrary to the old testament(the face of discipline, revenge and geolousy), Jesus interpreted the old testament, he never agreed to it, he is but a fullfilment of those scripture to which he changes the rules, he specifies in the entire new testament how he thinks about those rules, you just have to read it. The same can be said about the koran, where there are different in diverse perspectives about the act. If you read carefull all the scriptures of all religions you can comprehend that on an universal basis the act of being homosexual or transgender is neutral, neither a sin nor something to take pride in it.
+  - Psychologist should help in making people understand their thought about their identity, some may want to change their gender not because of gender disphoria but because they dont love themselves, one shouldn't put his life in danger over this. Sexual education should be thought in schools or to teach parents how to educate their childrens about it, but no one should endanger someones psychic over gender identity
 
 ### B. Religious & Existential Views
 
