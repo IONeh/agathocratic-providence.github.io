@@ -13,6 +13,13 @@ If you want to know what my organization philosophy and tactics we will do for f
 ## II. Philosophical Framework
 
 ### A. Gender & Identity
+<details>
+  <summary>Historical evidence of things</summary>
+
+  Example this
+
+</details>
+
 
   **Policy Positions:**  
   - Advocate for minimizing official documentation of sex/gender except for medical necessity
