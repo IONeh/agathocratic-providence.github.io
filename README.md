@@ -6,9 +6,11 @@
 **Primary Goal:**  
 Creating an organization for combating far-right, far-left and unbalanced centrism through social media. We will create videos, shorts, comments that will move people out of unrational echo chambers towards more balanced view or different perspectives of the world throught what i call "Tranzitional Chambers".
 
-If you want to read about my project regarding the civilization types click [THIS](https://ioneh.github.io/agathocratic-providence.github.io/echosystem.md)
-If you want to read about the political solution i propose for countries click [THIS](https://ioneh.github.io/agathocratic-providence.github.io/the-new-way.md)
-If you want to know what my organization philosophy and tactics we will do for fighting extremism read below\/
+If you want to read about my project regarding the civilization types click [THIS](https://ioneh.github.io/agathocratic-providence.github.io/echosystem.md).
+
+If you want to read about the political solution i propose for countries click [THIS](https://ioneh.github.io/agathocratic-providence.github.io/the-new-way.md).
+
+If you want to know what my organization philosophy and tactics we will do for fighting extremism read below\/.
 
 ## II. Philosophical Framework
 ### A. Gender & Identity
