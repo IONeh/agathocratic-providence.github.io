@@ -185,8 +185,8 @@ If you want to know what my organization philosophy and tactics we will do for f
 ## VII. Demonstrated Success & Experience
 
 ### A. Personal Case Study
-- Successfully managed presidential election crisis intervention
-  - Addressed far-right candidate emergence
+- In a presidential election crisis.
+  - Addressed individuals manipulated by far-right and far-left.
   - Mediated between divided sides
   - Achieved mind-opening results through personal interaction
 - Success factors:
