@@ -79,18 +79,18 @@ We posit that the civilization’s probability (or propensity) for self-destruct
    DS = (α × PPI + β × TCF) ÷ (γ × MAEI)
 
 Where:  
-- α, β, and γ are weight factors that you can calibrate based on how strongly you believe each parameter affects destruction likelihood.  
+- α, β, and γ are weight factors that one can calibrate based on how strongly one believe each parameter affects destruction likelihood.  
 - DS is normalized to a percentage scale from 0% (minimal self-destructive risk) to 100% (maximum risk).
 
-For example, one might set α = 0.4, β = 0.5, and γ = 1.0 (if you think technological exhaustion slightly outweighs population pressure), but these numbers can be adjusted once real data or more refined assumptions are available.
+For example, one might set α = 0.4, β = 0.5, and γ = 1.0, but these numbers can be adjusted once real data or more refined assumptions are available.
 
 ---
 
 ## 3. Incorporating Qualitative Factors
 
-The civilization type—as described in your list—is not determined solely by DS; cultural and religious attitudes are also assumed to correlate with each type. One way to incorporate these is by associating “assumed mental frameworks” with ranges of DS, acknowledging that civilizations with very high DS tend to develop religions or ideologies of suffering or predation, while those with low DS lean toward mutualism or neutralism.
+The civilization type—as described in my list—is not determined solely by DS; cultural and religious attitudes are also assumed to correlate with each type. One way to incorporate these is by associating “assumed mental frameworks” with ranges of DS, acknowledging that civilizations with very high DS tend to develop religions or ideologies of suffering or predation, while those with low DS lean toward mutualism or neutralism.
 
-Thus, after computing DS, you map the value to a type based on the following approximate ranges:
+Thus, after computing DS, i map the value to a type based on the following approximate ranges:
 
 | Civilization Type | Label        | DS Range (%) | Characteristics (Assumed)                                          |
 |-------------------|--------------|--------------|---------------------------------------------------------------------|
@@ -106,13 +106,10 @@ Thus, after computing DS, you map the value to a type based on the following app
 | Type 9            | "Utopy"      | 5–10         | Mutualism; complete integration with the environment; minimal selfishness; philosophical/religious outlooks similar to Buddhism/spinozism |
 | Type 10           | "Heaven"     | 0–5          | Neutralism; fully self-sustaining, producing their own needs with minimal environmental interference; almost angelic or enlightened/ultra-scientific |
 
-*These descriptions are based on your assumptions and can be refined further.
-
 ---
 
 ## 4. Accounting for Subtypes
 
-You also mentioned subtypes:  
 - **Subtype A (Obligate):** Civilizations that inherently follow their calculated mode (they are “locked” into a survival mode defined by DS and its cultural manifestation).  
 - **Subtype B (Facultative):** Civilizations that can adapt or shift strategies under certain conditions (their DS might change over time as they learn or modify their technology consumption).
 
