@@ -12,16 +12,10 @@ If you want to know what my organization philosophy and tactics we will do for f
 
 ## II. Philosophical Framework
 
-### A. Gender & Identity
 <details>
-  <summary>Historical evidence of things</summary>
+  <summary>### A. Gender & Identity</summary>
 
-  Example this
-
-</details>
-
-
-  **Policy Positions:**  
+   **Policy Positions:**  
   - Advocate for minimizing official documentation of sex/gender except for medical necessity
   - No sex on ID (governments are having too much data about individuals)
 
@@ -41,7 +35,11 @@ If you want to know what my organization philosophy and tactics we will do for f
   - Example: According to Talmud 6-8 society roles in ancient Israel at time of Jesus Christ. Also according to the Bible Matei chapter 19, Jesus was respecting eunuchs that decided to operate or were born another sex. Same thing can be said about all other religions. The only problems that arise is with homosexuals in abrahamic religions, as in the old testament of the bible and in the koran those acts are "superficialy" considered a sin. I say "superficialy" cause the opinion of the act is misunderstood, as an example, the new testament offers the second face of God(the mercifull and loving face) contrary to the old testament(the face of discipline, revenge and geolousy), Jesus interpreted the old testament, he never agreed to it, he is but a fullfilment of those scripture to which he changes the rules, he specifies in the entire new testament how he thinks about those rules, you just have to read it. The same can be said about the koran, where there are different in diverse perspectives about the act. If you read carefull all the scriptures of all religions you can comprehend that on an universal basis the act of being homosexual or transgender is neutral, neither a sin nor something to take pride in it.
   - Psychologist should help in making people understand their thought about their identity, some may want to change their gender not because of gender disphoria but because they dont love themselves, one shouldn't put his life in danger over this. Sexual education should be thought in schools or to teach parents how to educate their childrens about it, but no one should endanger someones psychic over gender identity
 
-### B. Religious & Existential Views
+</details>
+
+
+<details>
+  <summary>### B. Religious & Existential Views</summary>
 
 **Core Position:**  
 - Agnostic yetsism - open to metaphysical reality while maintaining skepticism
@@ -56,6 +54,8 @@ If you want to know what my organization philosophy and tactics we will do for f
 **Free Will:**  
 - Largely determined by causes
 - Room for conscious choice with required knowledge
+
+</details>
 
 ## III. Social & Political Framework
 
@@ -88,7 +88,6 @@ If you want to know what my organization philosophy and tactics we will do for f
 - Civilization types based on ecosystem (referenced scribd paper)
 
 ### C. Moral Framework
-
 **Guiding Principles:**
 - Golden mean principle (Aristotelian moderation)
 - Opposition to extremism and hypocrisy
@@ -97,7 +96,8 @@ If you want to know what my organization philosophy and tactics we will do for f
 - Focus on consistent ethical principles
 - Critique of double standards in anything
 
-## IV. Key Organizational Themes
+<details>
+  <summary>## IV. Key Organizational Themes</summary>
 
 ### A. Balance & Moderation
 - Seeking middle ground
@@ -133,8 +133,12 @@ If you want to know what my organization philosophy and tactics we will do for f
 - Relates to great filter in Fermi paradox
 - Ignoring these while pursuing wealth/power or antagonizing success accelerates problems
 
-## VI. Implementation Strategy & Tactical Plan
+</details>
 
+
+
+<details>
+  <summary>## VI. Implementation Strategy & Tactical Plan</summary>
 ### A. Organizational Development
 - Hire and train people to fight extremism across sectors:
   - IT developers
@@ -189,8 +193,11 @@ If you want to know what my organization philosophy and tactics we will do for f
 - Confuse and Irritate
 - Personal Connection Appeals
 
-## VII. Demonstrated Success & Experience
+</details>
 
+
+<details>
+  <summary>## VII. Demonstrated Success & Experience</summary>
 ### A. Personal Case Study
 - In a presidential election crisis.
   - Addressed individuals manipulated by far-right and far-left.
@@ -206,15 +213,18 @@ If you want to know what my organization philosophy and tactics we will do for f
 - Reduction of extremist rhetoric
 - Disinformation mitigation strategies
 
+</details>
+
+
 ## VIII. Current Global Challenges
 
 ### A. Regional Perspectives
 **Western and the liberal Issues:**
 - Influencers providing limited perspective
 - Failure to empathize with opponents
-- Excessive focus on guilt
+- Excessive focus on guilt tripping and mockery
 
-**Eastern and the left Issues:**
+**Eastern and the social Issues:**
 - Over-emphasis on shame
 - Collective approach dominance
 - Insufficient individual support
